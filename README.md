@@ -21,3 +21,5 @@ Here are some ideas to get you started:
  - :paw_prints: I love :cat2:s. I have 5 :stuck_out_tongue_winking_eye:
  - :sleeping: I try to work hard
  - :blue_heart::blue_heart::blue_heart: Thank You! :blue_heart::blue_heart::blue_heart:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh0726)](https://github.com/anuraghazra/github-readme-stats)
