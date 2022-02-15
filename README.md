@@ -23,3 +23,5 @@ Here are some ideas to get you started:
  - :blue_heart::blue_heart::blue_heart: Thank You! :blue_heart::blue_heart::blue_heart:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh0726&hide=stars,prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh0726)](https://github.com/anuraghazra/github-readme-stats)
