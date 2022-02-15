@@ -1,4 +1,4 @@
-### Hi there 👋
+ **Hi there, I am Harshani Neranjana Vitharana** 👋
 
 <!--
 **Harsh0726/Harsh0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌱 I’m currently learning in programming lanuages,
+ 🔭 I’m an undergraduate of Sabaragamuwa University of Sri Lanka,
+ ⚡ I love to do Website designing and android app developing..
+ :heart_eyes:Also Gardning :cactus::hibiscus: and Reading novels:books: and articles:newspaper: are my favourite hobbies.
+:paw_prints:I love :cat2:. I have 5 :stuck_out_tongue_winking_eye:
+:sleeping: I try to work hard
+:blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart::blue_heart:
