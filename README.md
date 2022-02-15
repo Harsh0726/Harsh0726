@@ -22,4 +22,4 @@ Here are some ideas to get you started:
  - :sleeping: I try to work hard
  - :blue_heart::blue_heart::blue_heart: Thank You! :blue_heart::blue_heart::blue_heart:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh0726&hide=stars,prs,issues,contribs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh0726&hide=stars,prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
