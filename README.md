@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh0726&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
