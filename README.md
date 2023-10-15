@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning programming languages, frameworks and doing projects.
  - 🔭 I’m an undergraduate at Sabaragamuwa University of Sri Lanka.
  - ⚡ I love to do Website designing and mobile app development.
- - :heart_eyes: Also Gardening:cactus::hibiscus: and Reading novels:books: and articles:newspaper: are my favorite hobbies.
+ - :heart_eyes: Also Gardening:cactus::hibiscus: Reading novels:books: and articles:newspaper: are my favorite hobbies.
  - :paw_prints: I love :cat2:s.
  - :hugs: I love to work hard
  - :blue_heart::blue_heart::blue_heart: Thank You! :blue_heart::blue_heart::blue_heart:
